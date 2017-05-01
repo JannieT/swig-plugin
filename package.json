@@ -1,0 +1,28 @@
+{
+  "name": "swig-plugin",
+  "version": "0.1.0",
+  "description": "A plugin for webpack to keep your HTML code DRY by rendering static html files from swig sources.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OneSheep/swig-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "swig",
+    "html"
+  ],
+  "author": "Jannie Theunissen <jannie@onesheep.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OneSheep/swig-plugin/issues"
+  },
+  "homepage": "https://github.com/OneSheep/swig-plugin",
+  "devDependencies": {},
+  "dependencies": {
+    "glob": "^7.1.1",
+    "path": "^0.12.7",
+    "swig": "~1.4.2"
+  }
+}
