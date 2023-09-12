@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OneSheep/swig-plugin.git"
+    "url": "https://github.com/JannieT/swig-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -16,9 +16,9 @@
   "author": "Jannie Theunissen <jannie@onesheep.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneSheep/swig-plugin/issues"
+    "url": "https://github.com/JannieT/swig-plugin/issues"
   },
-  "homepage": "https://github.com/OneSheep/swig-plugin",
+  "homepage": "https://github.com/JannieT/swig-plugin",
   "dependencies": {
     "glob": "^7.1.1",
     "swig": "~1.4.2"
